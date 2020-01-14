@@ -5,7 +5,7 @@ What is the average property price?
 
 
 ## Instructions
-* Request JSON from https://raw.githubusercontent.com/rightmove/Code-Challenge-Android/master/properties.json
+* Request JSON from https://raw.githubusercontent.com/rightmove/Code-Challenge-iOS/master/properties.json
 
 * Calculate the average property price from the results
 
@@ -18,6 +18,7 @@ What is the average property price?
 
 ## Considerations
 Remember this is a chance to demonstrate your knowledge of Swift development. This can include separation of concerns, test coverage, error handling etc. 
+
 We would expect you to spend no more than 2 evenings on this test. If you are unable to finish in this time then comments on what you would do next will suffice.
 
 
