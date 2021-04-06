@@ -23,6 +23,5 @@ We would expect you to spend no more than 2 evenings on this test. If you are un
 
 
 ## Submission
-The test submission needs to be archived (e.g. zip or tar) and sent via a file sharing site to ensure your submission is not blocked.
-We recommend using https://wetransfer.com/ - Please fill in the information required, the ‘email to’ should be: javatests@rightmove.co.uk
+The test submission needs to be archived (e.g. zip or tar) and sent via a file sharing site to ensure your submission is not blocked. Please name your submission 'Righmove Tech Test - candidate name'. We recommend using https://wetransfer.com/ - Please fill in the information required, the ‘email to’ should be: javatests@rightmove.co.uk
 If you have any issues sending us your archive, try submitting a file sharing link such as Dropbox, or send us an email to discuss further options.
